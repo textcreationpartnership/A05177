@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scottish souldier. By Lavvder</title>
+            <author>Lauder, George, b. ca. 1600.</author>
+         </titleStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A05177</idno><idno type="EEBO-CITATION">99844999</idno>
+  <idno type="VID">9868</idno>
+  <idno type="EEBO-PROQUEST">2248527955</idno>
+  <idno type="STC">STC 15312</idno>
+  <idno type="STC">ESTC S109349</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99844999e"/>
+            <note>(EEBO-TCP ; phase 2, no. A05177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9868)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1315:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scottish souldier. By Lavvder</title>
+                  <author>Lauder, George, b. ca. 1600.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iobn [sic] Wreittoun, and are to be sold at his shop, alitle beneath the salt Trone,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>"Wight. To the Kings most excellent Maiesty" has separate dated title page; register is continuous.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  Armed forces --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:9868:1"/>
+                  <pb facs="tcp:9868:1"/>
+                  <p>THE SCOTTISH SOVLDIER.</p>
+                  <p>BY LAVVDER</p>
+                  <q>
+                     <hi>SVNT ARTIBVS ARMA DECORI.</hi>
+                  </q>
+                  <p>EDINBVRGH Printed by <hi>Iohn Wreittoun,</hi> and are to be sold at his Shop, a litle be<g ref="char:EOLhyphen"/>neath the salt Trone. 1629.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:9868:2"/>
+                  <head>TO SCOTLAND.</head>
+                  <l>BEhold the shaddow of thy Warrelike Sonne</l>
+                  <l>Great Mother, from whose Worthie-fertile Wombe</l>
+                  <l>So manie thousands haue tane birth, and wonnne</l>
+                  <l>An endlesse Fame abroad, and Name at home:</l>
+                  <l>Sharing the glorie of each Conquest great,</l>
+                  <l>And Victorie obtainde in brave defaite.</l>
+                  <closer>
+                     <signed>LAWDER.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:9868:2"/>
+                  <head>THE SCOTTISH SOVLDIER.</head>
+                  <lg>
+                     <l>ARme, arme, to Armes, the Trumpets sound each where,</l>
+                     <l>And Drummes doe beate in ev'rie Martiall eare:</l>
+                     <l>Rouze vp; my brave and valiant Countrie-men,</l>
+                     <l>The golden Age doth now returne againe;</l>
+                     <l>In which our swords shall sheare enough vnsowne,</l>
+                     <l>And make the fruits of everie field our owne:</l>
+                     <l>The harvest of true Honour draweth neere,</l>
+                     <l>When everie head that would a Laurell weare</l>
+                     <l>Must clad in shyning steele march to the field,</l>
+                     <l>And gather Crownes which farrowes then will yeeld.</l>
+                     <l>While Kings enthron'd in dust doe gasping lie,</l>
+                     <l>And clowds of smoake eclypse the Sunne and skie:</l>
+                     <l>Which Cannons thundring throats doe vomite forth,</l>
+                     <l>Where death and danger showes to trye true Worth:</l>
+                     <l>O what a brave occasion have you now!</l>
+                     <l>To make the Earth and all her Monarchs bow</l>
+                     <l>To your victorious Armes? which heeretofore</l>
+                     <l>No fotraine yoke of bondage ever bore;</l>
+                     <l>When all the sur-face of this spatious Round,</l>
+                     <l>Where either Land or Iland could bee sound,</l>
+                     <l>That might inlarge <hi>Romes</hi> Empire was made thrall</l>
+                     <l>Her ravenous Eagles soaring over all,</l>
+                     <l>You kept your bounds vnconquer'd to this day,</l>
+                     <l>And did <hi>Romes</hi> Empire bo and, her conquests stay,</l>
+                     <l>And made her power fall hoasts your harme so feare,</l>
+                     <l>That they huge R<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mparts of defence did reare</l>
+                     <pb facs="tcp:9868:3"/>
+                     <l>From axe-armde <hi>Scots</hi> invasion, you who ne're</l>
+                     <l>By any stranger yet subdued were,</l>
+                     <l>If Heavens great favour you implore a while:</l>
+                     <l>Which never did but on your Armies smile,</l>
+                     <l>You may presume (and with good hope) to bring.</l>
+                     <l>The World t'adore the <hi>Lyon</hi> for her King:</l>
+                     <l>For why were you reserued ever free,</l>
+                     <l>If not the Emperours of this <hi>Earth</hi> to be?</l>
+                  </lg>
+                  <lg>
+                     <l>Our Nation euer hath most Noble beene,</l>
+                     <l>And all the Neighbouring World hath wondring seene.</l>
+                     <l>More Worthies, sent from hence in forraine Warre,</l>
+                     <l>Whose Courage greatest dangers could not marre,</l>
+                     <l>Then ever any Kingdome all about.</l>
+                     <l>Could for her owne defence at home bring out,</l>
+                     <l>For Warre hath beene the practice of this Land.</l>
+                     <l>Since <hi>Fergus</hi> footed first our <hi>Scotish</hi> sand,</l>
+                     <l>And ere our fathers in the World did come,</l>
+                     <l>They heard th' Alarums in their mothers wombe,</l>
+                     <l>Which made them all borne Souldiers, for the feild</l>
+                     <l>Their birth-place was, their cradle was a shielde,</l>
+                     <l>Why should not we then, sprung of warrlike race;</l>
+                     <l>Our worthie grandsires wayes and footings trace?</l>
+                     <l>To show this wretched world that courage bold,</l>
+                     <l>Doeth liue in vs which shinde in them of old,</l>
+                     <l>And that our World-diuided Ile can send,</l>
+                     <l>To drowne all lands forth a deluge of Men.</l>
+                  </lg>
+                  <lg>
+                     <l>Braue fellowes! doe but backe reflect your sight.</l>
+                     <l>On Ages past, with wonder and delight,</l>
+                     <l>You will transported find an vncouth fire</l>
+                     <l>Burne in your breasts with flames of braue desire.</l>
+                     <l>To make you one day like these <hi>Heroes</hi> great,</l>
+                     <l>Whose memorie liues fresh and valour yet.</l>
+                     <l>And of whose loynes while they this land defended.</l>
+                     <l>You were in armes be got and are descended.</l>
+                  </lg>
+                  <lg>
+                     <l>Behold in <hi>France</hi> eight hundred yeares and more,</l>
+                     <l>To <hi>Charlemaigne</hi> foure thousand <hi>Scots</hi> sent ore,</l>
+                     <pb facs="tcp:9868:3"/>
+                     <l>Securd his Kingdome from the <hi>Saxon</hi> harmes,</l>
+                     <l>And well deservde with their defensive armes,</l>
+                     <l>For which the Lillyes of our golden feild,</l>
+                     <l>Enclose the Lion in our Royall sheild.</l>
+                  </lg>
+                  <lg>
+                     <l>Behold two thousand in <hi>Ierusalem,</hi>
+                     </l>
+                     <l>Braue Champions of the faith, true Scotish men:</l>
+                     <l>Led by great <hi>Hugo Philip's</hi> brother bold,</l>
+                     <l>Who then the scepter of faire <hi>France</hi> did hold.</l>
+                  </lg>
+                  <lg>
+                     <l>Behold the holy King saint <hi>Lowys</hi> then,</l>
+                     <l>Proud to lead on three thousand Scots againe.</l>
+                     <l>To <hi>Palestine,</hi> whilst that braue Earle of <hi>March,</hi>
+                     </l>
+                     <l>Their, Captaine by his side did stoutelie march,</l>
+                     <l>Of whose assistance finding so much good,</l>
+                     <l>Our third King <hi>Alexanders</hi> helpe he su'd,</l>
+                     <l>And had two thousand more sent to his neede;</l>
+                     <l>Whom <hi>Atholls</hi> Earle and <hi>Carricts</hi> Counte did lead.</l>
+                  </lg>
+                  <lg>
+                     <l>Behold our second <hi>Dauid</hi> arme for ayde,</l>
+                     <l>To <hi>Iohn</hi> of <hi>France</hi> three thousand Souldiers, led</l>
+                     <l>By <hi>William</hi> Earle of <hi>Douglas,</hi> which did all</l>
+                     <l>In <hi>Poictou</hi> with the French in battle fall.</l>
+                  </lg>
+                  <lg>
+                     <l>Behold our <hi>Robert</hi> send to <hi>Charles</hi> againe,</l>
+                     <l>Seuen thousand, stout and Warrelike fighting Men,</l>
+                     <l>Of which <hi>Iohn</hi> Earle of <hi>Buchan</hi> Gen'rall went,</l>
+                     <l>And there the Earle of <hi>Wigtoun,</hi> though not sent,</l>
+                     <l>Who in these warres deservd so well of France,</l>
+                     <l>That <hi>Charles</hi> brave <hi>Buchans</hi> merite to advance</l>
+                     <l>Made him great <hi>Constable</hi> of <hi>France,</hi> and sent</l>
+                     <l>Backe all his noble bandes againe, content</l>
+                     <l>Till time requirde their ayde, and callde them ore,</l>
+                     <l>To <hi>France</hi> supplied with three thousand more.</l>
+                  </lg>
+                  <lg>
+                     <l>All these, and many thousands more of late,</l>
+                     <l>Haue in their freinds defence gainde honors greats.</l>
+                     <l>The <hi>Douglasses</hi> long D<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>kes of <hi>Touraine</hi> were,</l>
+                     <l>The <hi>Hamiltons</hi> of <hi>Chastelraut</hi> yet are,</l>
+                     <l>The <hi>Stuarts</hi> Lords of <hi>Aubigny</hi> till now,</l>
+                     <l>Whose grandsyres to that height of greatnesse grew.</l>
+                     <pb facs="tcp:9868:4"/>
+                     <l>That one of them had absolute command</l>
+                     <l>Ore all the gaged Souldiers of the Land.</l>
+                     <l>Another governd <hi>Millans</hi> state and reyne</l>
+                     <l>And one in <hi>Naples</hi> Vice-Roy did reigne,</l>
+                     <l>Who after liv'd great Generall to bee</l>
+                     <l>Of all the force of <hi>France</hi> in <hi>Italie:</hi>
+                     </l>
+                     <l>And of that Armie which hee hither led</l>
+                     <l>In <hi>England</hi> sent vnto seventh <hi>Henries</hi> aide.</l>
+                  </lg>
+                  <lg>
+                     <l>What noble minde not ravisht is to read,</l>
+                     <l>In th'Annalls of those noble <hi>Hero's</hi> dead;</l>
+                     <l>Whose worth surviving time, shall never die</l>
+                     <l>But live enrolled in Eternitie?</l>
+                     <l>O brave and happie Ghosts! for ever rest</l>
+                     <l>In heavens triumphant glorie crownde and blest,</l>
+                     <l>That you may from the rolling Spheares above</l>
+                     <l>Behold the bodyes where your Soules doe move;</l>
+                     <l>Assisted with your happie influence,</l>
+                     <l>Live ever famous in all ages hence</l>
+                     <l>To doe great things as you have done before,</l>
+                     <l>Whose memory and Names time doth adore.</l>
+                     <l>And you my Country-men cast vp your eyes</l>
+                     <l>On those bright starres now fixt in honours skyes;</l>
+                     <l>Glasse in their glorious deedes your actions all,</l>
+                     <l>Now while this brave occasion doth you call.</l>
+                     <l>Shunne sluggish rest, and that lethargicke sleepe,</l>
+                     <l>Which doth your soules so long intranced keepe</l>
+                     <l>In the base shadowes of obscuritie.</l>
+                     <l>Vp, vp, awake that all the World may see,</l>
+                     <l>The <hi>Scotish Souldier</hi> glistring in bright steele,</l>
+                     <l>To make the Earth to stagger, shake and reele,</l>
+                     <l>Drunke with her dwellers blood, who dare withstand</l>
+                     <l>Refusing <hi>Charles</hi> his yoke, when you command</l>
+                     <l>To draw his <hi>waine,</hi> and proud triumphant <hi>Carre,</hi>
+                     </l>
+                     <l>Betwixt the <hi>Artick</hi> and <hi>Antartick</hi> starre.</l>
+                     <l>Let <hi>Tybers</hi> streames no more runne crystall buod,</l>
+                     <l>But black with goare, and <hi>Danube</hi> swell embr<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed</l>
+                     <pb facs="tcp:9868:4"/>
+                     <l>With crimson colourd brookes, whose currants fall.</l>
+                     <l>Downe from the mountaines, and the valleyes all,</l>
+                     <l>Wherewith your swordes the sources opned bee,</l>
+                     <l>To make the Ocean all but one Red Sea.</l>
+                  </lg>
+                  <lg>
+                     <l>Then, as this happy soyle hath lent you birth,</l>
+                     <l>Which earst did bring so many great ones foorth,</l>
+                     <l>Showe you are valourous, and <hi>Scotts</hi> men true,</l>
+                     <l>Whose arms can worlds of Enemies subdue:</l>
+                     <l>Shake off all ease, and for soft beds of downe</l>
+                     <l>To rest vpon the stony earth lie downe.</l>
+                     <l>Make Water Nectar, which you muddie drinke</l>
+                     <l>Into a Morrian, and never thinke</l>
+                     <l>On VVine, nor on that fine and daintie fare</l>
+                     <l>For which no soule but pampred slaues do care:</l>
+                     <l>Away those vaine attires of strange disguise</l>
+                     <l>And gaudie clothes which glance in Ladies eyes.</l>
+                     <l>The Corslet will become you better farre</l>
+                     <l>And mould you brauelie like to men of VVarre,</l>
+                     <l>Let painted puppies, womanish conceates,</l>
+                     <l>Court monkies, which on fauour's smile awaits,</l>
+                     <l>Fard, frize, and painte, for me, I never seeke</l>
+                     <l>To haue a better collour on my cheeke;</l>
+                     <l>Then when the dust and sweate doe hide my face,</l>
+                     <l>Me thinkes such grim-nesse is a Souldiers grace:</l>
+                     <l>And for that softnesse mignard youthes affect,</l>
+                     <l>My humor scornes it in disdaind neglect,</l>
+                  </lg>
+                  <lg>
+                     <l>Let me still heare the Cannons thundring voice,</l>
+                     <l>In terror threaten ruine; that sweet noyse</l>
+                     <l>Kings in my eares more pleasing than the sound</l>
+                     <l>Of any Musickes consort can bee found.</l>
+                     <l>Show mee two Armies which embattled stand,</l>
+                     <l>VVith Squadrons spred abroad on everie hand</l>
+                     <l>And readie to encounter: such a sight</l>
+                     <l>Doth more bereave my senses with delight</l>
+                     <l>Than all the pompous showes the Court affords.</l>
+                     <l>And Mignons maskes of Ladye and of Lords.</l>
+                     <pb facs="tcp:9868:5"/>
+                     <l>To see them give a charge, make a retraite,</l>
+                     <l>Heere a Battallion broke, there one defaite;</l>
+                     <l>A troup of horse charge footmen on the flankes:</l>
+                     <l>Who closelie keepe their order, and their rankes,</l>
+                     <l>The Pikes stand like a forrest broad and faire,</l>
+                     <l>And streight presenting make a front all where,</l>
+                     <l>To heare the Trumpets sound, drummes thundring round,</l>
+                     <l>Make Heaven amd earth, the Sea and land resound,</l>
+                     <l>As if this All should suddainelie bee brought</l>
+                     <l>To that confusion whence it first was wrought.</l>
+                     <l>Then to see leggs and armes torne ragged flie,</l>
+                     <l>And bodyes gasping all dismembred lie,</l>
+                     <l>One head beate off another, while the hand</l>
+                     <l>Sheaths in his neighbours breast his bloodie brand,</l>
+                     <l>A Cannon bullet take a Ranke away,</l>
+                     <l>A Volley of small shot eclypse the day</l>
+                     <l>With smoke of sulphure, which no sooner cleares,</l>
+                     <l>But death and horrour everie where appeares;</l>
+                     <l>The Vantguards joyne, of which the one orethrowes</l>
+                     <l>The other, and ore all their bellies goes:</l>
+                     <l>And then the Battles meete, at which doth stay</l>
+                     <l>The victorie and fortune of the day.</l>
+                     <l>There wounds with wounds are payd, and death with death</l>
+                     <l>There, furie offreth to a conquering wrath.</l>
+                     <l>The dying groanes of such as durst affront</l>
+                     <l>A noble Courage, which did theirs surmount.</l>
+                     <l>Where glorie binds her palmes about the head,</l>
+                     <l>Who for true honour doth no danger dread,</l>
+                     <l>But as a Lyon, roaring to asswage</l>
+                     <l>Among the heards of sheepe his hungers rage,</l>
+                     <l>Doth teare and rend, byte, kill on everie side.</l>
+                     <l>Vntill his appetite bee satisfied.</l>
+                     <l>So hee makes all about him find his blowes,</l>
+                     <l>Whose weight who ever findeth downeward goes:</l>
+                     <l>Then fall the conquerde Ensignes to the ground,</l>
+                     <l>With those that bare them vp in blood now drownd.</l>
+                     <pb facs="tcp:9868:5"/>
+                     <l>The Conquerours crye aloud, the conquerd die,</l>
+                     <l>And sigh their last to see that <hi>Victorie:</hi>
+                     </l>
+                     <l>VVhilst a retraite is sounding over all</l>
+                     <l>The Victors troups in order backe to call</l>
+                     <l>VVho rich in honour, and in bootle come</l>
+                     <l>Chargde with their Enemies spoyles triumphant home.</l>
+                  </lg>
+                  <lg>
+                     <l>These are the glorious showes which in mine eyes</l>
+                     <l>Surpasse all glistring pompe and vanities.</l>
+                     <l>The Campe's my Court, wherein a Corslet clad,</l>
+                     <l>I find more ease of mind, and walk more glad</l>
+                     <l>Than hee who lac'd in gold and velvet goes</l>
+                     <l>Proud of the silken glose of fading cloathes.</l>
+                     <l>The trenches are my walkes where oft for sport,</l>
+                     <l>And recreation sweet I doe resort,</l>
+                     <l>There midst the flames of lightining, and the rayne,</l>
+                     <l>Of Musquet bullets pour'd on hundreds slayne.</l>
+                     <l>I walke securelie, and with more content.</l>
+                     <l>Than if my howres were in soft pleasure spent.</l>
+                     <l>If any new designe or Enterprise</l>
+                     <l>Be hatch'd, in which apparent danger lies,</l>
+                     <l>And none but such as faine wold honour winne,</l>
+                     <l>Dare venter or attempt, O I there I runne</l>
+                     <l>As others to a feast, and when I scale</l>
+                     <l>A Towne or fort, and see our plott prevaile,</l>
+                     <l>Though death did marre my way, my wishe goes even,</l>
+                     <l>I'de thinke it were the way to honors heaven.</l>
+                  </lg>
+                  <lg>
+                     <l>This way our grandsires went, this way our fires,</l>
+                     <l>This way must hee to honour who aspires,</l>
+                     <l>By this our brethren in these latter dayes,</l>
+                     <l>Haue in the Schooles of VVarre beene crown'd with bayes:</l>
+                     <l>Shall wee who follow them degener then?</l>
+                     <l>And not bee like our valiant Country-men?</l>
+                     <l>VVho when calme peace at home their minds did marre,</l>
+                     <l>Did seeke employment into forraine VVarre;</l>
+                     <l>As <hi>Holland</hi> well can witnesse, who did find</l>
+                     <l>Their friendly help, and first did prove them kind</l>
+                     <l>Of any neighbour Nation, when opprest</l>
+                     <pb facs="tcp:9868:6"/>
+                     <l>With Tyrannie she first her neck did wrest</l>
+                     <l>From <hi>Spaines</hi> hard yoke, and did her power disdaine</l>
+                     <l>A stated freedome since to entertaine</l>
+                     <l>By force of Armes; though not her owne God knowes,</l>
+                     <l>For all her Conquests to our Court'sie owes.</l>
+                     <l>A noble share which shee forgetting now</l>
+                     <l>Her vile ingratitude doth baselie show.</l>
+                     <l>For had they not at <hi>Nuyport</hi> fought it out,</l>
+                     <l>When but an handfull left, enclosd about,</l>
+                     <l>The fortune of that day had not beene good,</l>
+                     <l>But they would seale it with their dearest blood:</l>
+                     <l>And buye the Victorie at such a rate,</l>
+                     <l>As might deserve more thankes, if friendly met.</l>
+                  </lg>
+                  <lg>
+                     <l>The <hi>Germane</hi> Warres a number did invite,</l>
+                     <l>For our <hi>Eliza's</hi> Crowne with her to fight;</l>
+                     <l>Who all alace! were in her losses lost,</l>
+                     <l>So Heavns have in those parts our parties crost.</l>
+                     <l>But yet wee hope to see the day againe.</l>
+                     <l>On which than ere more glorious shee shall reigne,</l>
+                     <l>When <hi>Heidelberg,</hi> which now her want doth mourne,</l>
+                     <l>Her sighes of sorrow in sweet Songs shall turne.</l>
+                     <l>And her Triumphant bands shall march along</l>
+                     <l>The bankes of <hi>Rhene</hi> remembring former wrong.</l>
+                     <l>And make the flood Nymphes blush for joy to see</l>
+                     <l>Their <hi>Queene</hi> returne in pompe of Majestie.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Denmark</hi> our gallants daylie doth employ</l>
+                     <l>In hard exploits to worke their foes annoy;</l>
+                     <l>And finds them prove true <hi>Scotsmen</hi> like themselve</l>
+                     <l>Where blood empurpleth oft the streames of <hi>Elve.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Sweden</hi> emplores the ayde of <hi>Scotish</hi> bands,</l>
+                     <l>Which in her best defence most bravelie stands</l>
+                     <l>Against the fierce <hi>Polonian Cassaques</hi> force,</l>
+                     <l>And sees them shake the Squadrons of their horse.</l>
+                  </lg>
+                  <lg>
+                     <l>The World all finds our help, or feares our harme,</l>
+                     <l>If once our <hi>CHARLES</hi> should in his anger arme,</l>
+                     <l>O what an Armie then should spread her winges?</l>
+                     <l>Over all <hi>Europe's</hi> face to daunt her Kings?</l>
+                     <pb facs="tcp:9868:6"/>
+                     <l>When <hi>England</hi> is our owne with vs to goe.</l>
+                     <l>What may wee not? whom can wee not orethrow?</l>
+                     <l>If God bee not against our great designes,</l>
+                     <l>Where Sunne doth rise, and where his Carre declines,</l>
+                     <l>From frozen <hi>Zembla</hi> to the torride Zone,</l>
+                     <l>Thence to the Southerne Cape wee'll make our owne;</l>
+                     <l>And all shall be great <hi>Brittaines</hi> Empire wide,</l>
+                     <l>Having no neighbours but the Seas beside.</l>
+                  </lg>
+                  <lg>
+                     <l>Goe to then braue and hopefull <hi>Scottish</hi> brood,</l>
+                     <l>And with your Swords let out the boyling blood,</l>
+                     <l>Of the sicke Worlde in time, before shee bee</l>
+                     <l>Full brainesicke taken with a frenesie</l>
+                     <l>Lest in her madnesse hauing double strength,</l>
+                     <l>Shee proue vndaunted head strong at the length,</l>
+                     <l>And cannot be in that subiection ti'de</l>
+                     <l>In which is fitt shee should to you abide:</l>
+                     <l>First in the right arme <hi>Fraunce,</hi> set ope a veyne</l>
+                     <l>To weaken her, then in the left arme <hi>Spayne,</hi>
+                     </l>
+                     <l>Rippe vp another, whereby shee may bleed,</l>
+                     <l>Out all that may or can infect the head,</l>
+                     <l>But never bind them vp vntill the goare,</l>
+                     <l>Haue made a Sea, a Sea without a shoare.</l>
+                  </lg>
+                  <lg>
+                     <l>Time serues you now, come <hi>Caualiers</hi> or never,</l>
+                     <l>(Whom Heavens haue ioynd no Earthlie powre can seuer)</l>
+                     <l>Braue <hi>Scottes</hi> and <hi>English</hi> ioyne your hearts and hands,</l>
+                     <l>As loue hath done your long diuided lands,</l>
+                     <l>Put both your Crosses white and red in one,</l>
+                     <l>To fill <hi>Great Charles</hi> his standard with a sunne:</l>
+                     <l>Which shall orcshine with glorious spreading beames,</l>
+                     <l>The Vniuersall World in s<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rie gleames:</l>
+                     <l>And make his Enemies for feare looke blacke</l>
+                     <l>Or at the sight dasht, flie and turne their backe</l>
+                     <l>For honours sake and for your Countries fame,</l>
+                     <l>As now this Iland all hath but one Name,</l>
+                     <l>One <hi>King,</hi> one <hi>Faith,</hi> one <hi>Language,</hi> and one <hi>Lawe,</hi>
+                     </l>
+                     <l>So let one <hi>Loue</hi> your <hi>Hearts</hi> together drawe,</l>
+                     <l>That all <hi>Scotes-English, English-Scotes,</hi> may be.</l>
+                     <pb facs="tcp:9868:7"/>
+                     <l>Possest with that same minde which ruleth mee.</l>
+                     <l>Then wee shall see that long expected day,</l>
+                     <l>VVhen all our Lordings armde, shall cast away</l>
+                     <l>The frizled perwigges, powders, and perfumes,</l>
+                     <l>VVhich soeminine conceits no <hi>Man</hi> becomes,</l>
+                     <l>And put on plumed casques with lostie crests</l>
+                     <l>Vpon their heads, and Corslets on their brests,</l>
+                     <l>And for soft carpets in the Court, betake</l>
+                     <l>Themselves vpon the ground their beds to make,</l>
+                     <l>A stone for pillowe shall support their heads,</l>
+                     <l>VVithin these curtaines which starrde Heaven spreads.</l>
+                     <l>The raine and snow shall then best incense prove,</l>
+                     <l>To purge the rowme, and loathsome smells remove,</l>
+                     <l>Their dyet such as bounteous heaven hath sent</l>
+                     <l>Vpon Occasion, yeelding true Content,</l>
+                     <l>And for a table eat it on the grasse,</l>
+                     <l>Their hands to drinke the water for a glasse,</l>
+                     <l>Or golden Bowle, in which they shall not neede</l>
+                     <l>To feare mixt poyson, or to drinke with dread.</l>
+                     <l>For save the durt and mud horse feete have made,</l>
+                     <l>Of worse their neatnesse need not bee affrayde.</l>
+                  </lg>
+                  <lg>
+                     <l>This is the life the <hi>Souldier</hi> lives and loves,</l>
+                     <l>VVhich though it painefull bee, great pleasure proves.</l>
+                     <l>And I doe thinke my selfe as happie then</l>
+                     <l>VVhen I see nothing els but armed <hi>Men,</hi>
+                     </l>
+                     <l>As hee whose eyes doe stare his wretched gold,</l>
+                     <l>VVhich doth his soule a chained captive hold</l>
+                     <l>VVithin a chest, and never doth delight</l>
+                     <l>But when his pelfe is set into his fight.</l>
+                  </lg>
+                  <lg>
+                     <l>The VVorld is made to serve the vse of <hi>Man,</hi>
+                     </l>
+                     <l>I have enough what need I further than;</l>
+                     <l>Tis <hi>Honour</hi> which I aime at, and to gaine</l>
+                     <l>That sweetneth all the sowrnesse of my paine:</l>
+                     <l>That is the scope to which my minde aspires,</l>
+                     <l>That is the Soveraigne of my Soules desires.</l>
+                     <l>Arme, arme, to armes the Trumpets sound all where,</l>
+                     <l>And Drummes doe beate in ev'rie Martiall care.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="epitaph">
+                  <pb facs="tcp:9868:7"/>
+                  <head>A MONVMENT, to the Memorie of the most noble, <hi>and generous, S<seg rend="sup">r</seg>. W. Cuninghame,</hi> Captaine of an Horse trowpe, <hi>killed in the Ile of</hi> RETZ.</head>
+                  <head>S<seg rend="sup">r</seg>. WYC</head>
+                  <l>HEERE lyes</l>
+                  <l>Beneath this heape</l>
+                  <l>Of bones, in quiet sleepe</l>
+                  <l>A Knight who never dyes.</l>
+                  <l>
+                     <hi>SCOTLAND</hi> did lend him birth,</l>
+                  <l>And vaunteth of His <hi>WORTH,</hi>
+                  </l>
+                  <l>
+                     <hi>Bohemia's</hi> and the <hi>GERMANE</hi> VVarres</l>
+                  <l>Bred from a Boye this hopefull <hi>MARS,</hi>
+                  </l>
+                  <l>Vntill the service of his <hi>LORD</hi> and <hi>KING</hi>
+                  </l>
+                  <l>Did challenge his first flowres in <hi>Valours</hi> spring.</l>
+                  <l>Those <hi>RETZ</hi> did gather whilst they did but bud,</l>
+                  <l>And watring drownde the tree in <hi>FRANCE'S</hi> blood.</l>
+                  <l>The <hi>Souldiers, Honour, Love,</hi> have reard this loftie frame,</l>
+                  <l>To shrowde the sacred ashes of <hi>Couragious</hi> CUNINGHAME.</l>
+                  <byline>LAWDER.</byline>
+               </div>
+               <div type="encomium">
+                  <pb facs="tcp:9868:8"/>
+                  <head>NOMINIS ET ELOGII AVTHORIS, <hi>ANALEMMA.</hi>
+                  </head>
+                  <list>
+                     <item>Authoris <hi>Nomen</hi>
+                        <list>
+                           <item>Magister Georgius Laderus.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <item>Authoris Nomen <hi>Anagr.</hi>
+                        <list>
+                           <item>Armiger, laude gestis surgo.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <item>Authoris <hi>Elogium.</hi>
+                        <list>
+                           <item>
+                              <hi>Sunt Artibus Arma decori.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <div type="poem">
+                     <head>CARMEN.</head>
+                     <l>Armiger &amp; gestis surgo cum laude, <hi>Laderus.</hi>
+                     </l>
+                     <l>Sic decori mea sunt, artibus arma meis.</l>
+                     <byline>G <hi>Ballendinus.</hi>
+                     </byline>
+                  </div>
+               </div>
+               <div type="encomium">
+                  <head>Ad authorem, Encomiasticum.</head>
+                  <l>LAus in laudato, non in laudante locanda est,</l>
+                  <l>Et sequitur meritum, corpus vt vmbra, suum:</l>
+                  <l>Fiet <hi>adulator,</hi> literis, <hi>laudator,</hi> eisdem,</l>
+                  <l>Quando quis indignos laudat honore veros.</l>
+                  <l>Tu ne{que} laudis eges, nec nostro augeberis ore</l>
+                  <l>Sufficis in laudes, ipse <hi>Ladere</hi> tuas.</l>
+                  <l>Nam velut artificis rutilo lapis aemulus igni</l>
+                  <l>Spernit opem, proprio plus satis orbe micans:</l>
+                  <l>Sic tua nullius virtus plus indiga laudis,</l>
+                  <l>Ipsa suo gaudet, te sibi vate satis.</l>
+                  <l>Serta tibi data prima togae, deîa altera bĕlli,</l>
+                  <l>Sic juveni gemina est laurea parta tel<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>Ista virûm est uirtus, non vni insistere calli,</l>
+                  <l>Ast verâ{que} viâ, carpere laudis iter.</l>
+                  <l>Pergito chare Nepos, &amp; quàm potes, assere laudem,</l>
+                  <l>Assere in aeternos post tua fata dies.</l>
+                  <l>Assere, proclive est, &amp; si non faverit ipsa</l>
+                  <l>Invidia, in laudes fac crepet vs{que} tuas.</l>
+                  <byline>G. Ballendinus.</byline>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:9868:8"/>
+                  <p>WIGHT.</p>
+                  <p>To the Kings most excellent Maiesty.</p>
+                  <p>BY LAVVDER</p>
+                  <q>
+                     <hi>SVNT ARTIBVS ARMA DECORI.</hi>
+                  </q>
+                  <p>EDINBVRGH Printed by <hi>Iohn Wreittoun,</hi> and are to be sold at his Shop, a litle be<g ref="char:EOLhyphen"/>neath the salt Trone. 1629.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:9868:9"/>
+                  <head>To his sacred Maiestie.</head>
+                  <l>
+                     <seg rend="decorInit">D</seg>Isdaine not mightie Monarch to give care</l>
+                  <l>To this poore Nymph, who humbly doth entreate</l>
+                  <l>Thine ayde; and pardon for her Song, which feare</l>
+                  <l>In such a lowelie straine to THEE so great,</l>
+                  <l>Presumes vpon thy goodnesse to present,</l>
+                  <l>And by a Souldiers hand is to THEE sent.</l>
+                  <closer>
+                     <signed>By your Majestie most humble subject, servant and Souldier, <hi>LAWDER.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:9868:9"/>
+                  <head>WIGHT.</head>
+                  <lg>
+                     <l>ABout what time the faire <hi>Latona's</hi> Sonne</l>
+                     <l>To light this lower Round, the round did runne</l>
+                     <l>In which the Heavens sterne <hi>Archer</hi> standing, poures</l>
+                     <l>His falling shafts on earth in frequent showres:</l>
+                     <l>One day, as day the mornings blush did cleere,</l>
+                     <l>And Starres eclypsd dy'd in our <hi>Hemisphere,</hi>
+                     </l>
+                     <l>The winds were whist, heaven lourd on Sea and land,</l>
+                     <l>And a sad silence did the World command:</l>
+                     <l>When midst the smoothed marble of the Maine</l>
+                     <l>Neere <hi>Albions</hi> South shore, appeared plaine</l>
+                     <l>A sweet and statelie <hi>Nymph,</hi> to heave her head</l>
+                     <l>Above the waters faire, her locks did spread</l>
+                     <l>Their golden curles her shoulders all about,</l>
+                     <l>And flood-like flowde to where they late sprung out.</l>
+                     <l>A flowrie Anademe her temples crownd,</l>
+                     <l>Which was of Oake and I vie braunches bound.</l>
+                     <l>Her right hand held a dart <hi>Diana</hi> like,</l>
+                     <l>With which shee wount the flying Stagge to strike,</l>
+                     <l>The waves about her softlie swelling, raisde</l>
+                     <l>A chrystall Throne, on which shee sate and gaz'de</l>
+                     <l>The Seas and shoares about a prettie while.</l>
+                     <l>With an amazed looke and woundring smile.</l>
+                     <l>Then, on the neighbouring Coast her eyes shee cast,</l>
+                     <l>And thus her silence did breake off at last.</l>
+                  </lg>
+                  <lg>
+                     <l>What sad mischance hath causd this vncouth change?</l>
+                     <l>Why lookes the hilles and mountaines all so strange?</l>
+                     <l>What murmuring noise and whispers doe I heare?</l>
+                     <l>And sounds of sorrow ecchoing in mine eare;</l>
+                     <l>How lookes my sister <hi>Albion</hi> now so sad?</l>
+                     <l>Wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>owne cast brow who sung but late so glad?</l>
+                     <l>Tell mee you muttring brookes hilles daughters faire</l>
+                     <l>Why weepe you so, and teare your silver haire?</l>
+                     <pb facs="tcp:9868:10"/>
+                     <l>And meeting heere in <hi>Neptunes</hi> watrie court</l>
+                     <l>Why leave you off your wounted joyes and sport?</l>
+                     <l>Ay mee! what may this bee? some heavie losse</l>
+                     <l>It feares mee much, or something that doth crosse</l>
+                     <l>The publick well at home, or some sad newes</l>
+                     <l>Of Warres abroad, which Fame doth now infuse</l>
+                     <l>In everie eare; what ever losse it bee,</l>
+                     <l>The Heavens defend my <hi>Charles,</hi> and he'll keepe Mee.</l>
+                  </lg>
+                  <lg>
+                     <l>But ah! I see the cause why all things mourne,</l>
+                     <l>The fleet from <hi>Retz</hi> doth homeward now returne,</l>
+                     <l>But with great losse alace! of valiant Knights.</l>
+                     <l>And worthy Captaines killd in bloody fights:</l>
+                     <l>Of which my Sonne braue <hi>Burrowes</hi> was the first,</l>
+                     <l>A <hi>Souldier</hi> from the cradle bred and nurst,</l>
+                     <l>And many of those gallants, who but late:</l>
+                     <l>Did liue with mee, at tending this sad fate.</l>
+                     <l>For when they parted hence, faire <hi>Wight,</hi> said they</l>
+                     <l>Farewell, now fortune calleth vs away,</l>
+                     <l>Wee must begone, yet Heaven shall witnesse bee.</l>
+                     <l>In absent sighs how wee haue loved Thee.</l>
+                     <l>Poore Soules! they now sleepe in eternall rest.</l>
+                     <l>May their poore bones no trouble more molest:</l>
+                     <l>Ah cursed <hi>Retz!</hi> for ever cursed bee.</l>
+                     <l>Thou art the ground of all this greefe we see,</l>
+                     <l>Thy loue hath causd our losse, thy wine our woe,</l>
+                     <l>Thy salt our sorrow which doth vexe vs so.</l>
+                     <l>How many thousands but for thee haue did?</l>
+                     <l>By sea and land, and fire and sword haue tri'd?</l>
+                     <l>Thy Sister <hi>Rochell,</hi> earst to keepe thee free,</l>
+                     <l>Venterd her children, state, and libertie:</l>
+                     <l>Yet lost thee and her children, and almost</l>
+                     <l>(Had not Heaven fought for her) her halfe the lost.</l>
+                     <l>When brainsick <hi>Belgia</hi> sent her shippes from farre,</l>
+                     <l>To fight with God (in that vngodlie Warre,</l>
+                     <l>In which shee to her shame the cloake did teare</l>
+                     <l>Of true <hi>Relligion,</hi> which her selfe did weare,</l>
+                     <pb facs="tcp:9868:10"/>
+                     <l>To cover her rebellion not long since,</l>
+                     <l>When shee revolted from her lawfull Prince.)</l>
+                     <l>And even my <hi>Charles</hi> (deceau'd I must a vow)</l>
+                     <l>Did send his helpe his freinds to overthrow.</l>
+                     <l>O thou vnhappie Nymph canst not bee good!</l>
+                     <l>Whose beauty must be bought so deare with blood,</l>
+                     <l>And none can e're enjoy but jealousie,</l>
+                     <l>In hazard of some rivall enemie.</l>
+                  </lg>
+                  <lg>
+                     <l>But what doe I exclame? t'was Heavens decree</l>
+                     <l>The land should suffer and no fault in thee.</l>
+                     <l>This Nations sinnes haue made these Armies smart,</l>
+                     <l>And Pride is punishd now with just desert,</l>
+                     <l>All see it and confess't, then let vs now,</l>
+                     <l>With truelie humbled hearts our bodyes bow</l>
+                     <l>Before the throne of Heavens abundant grace.</l>
+                     <l>And with vnfeined teares first beg <hi>Gods</hi> peace,</l>
+                     <l>Then make just Warre abroad, that he may blesse</l>
+                     <l>Our Armes, and good designes with glad successe,</l>
+                     <l>Else never looke to act what wee intend,</l>
+                     <l>Nor bring but shame vnto our selues in end.</l>
+                     <l>The world now laughs to see vs brought so low,</l>
+                     <l>Who boasted so great things a while agoe,</l>
+                     <l>
+                        <hi>Fraunce,</hi> who before shee saw what wee could doe</l>
+                     <l>Even trembled at our Name, doth taunt vs now,</l>
+                     <l>And threatens an invasion, shee who late</l>
+                     <l>Halfe graunted all we crav'd at easie rate,</l>
+                     <l>And had begunne to talke and speake vs faire,</l>
+                     <l>But for to bee well vsd, shee was so neare:</l>
+                     <l>Now shee with <hi>Spaine</hi> secur'd, doth scoffing stand,</l>
+                     <l>And both doe boast to over-runne this land.</l>
+                     <l>Sweet sister doe not you despise their threattes;</l>
+                     <l>Nor be deceavd too farre with selfe conceattes,</l>
+                     <l>In trusting to your fleeting Castles strength,</l>
+                     <l>As Queene of th' Ocean, but expect at length,</l>
+                     <l>After so long you now that right maintaine,</l>
+                     <l>Since blest <hi>Eliza's</hi> dayes and happie raigne,</l>
+                     <pb facs="tcp:9868:11"/>
+                     <l>To see your fleet effronted with a fleete,</l>
+                     <l>Which may bee made (who knowes) with yours to meete.</l>
+                     <l>Still judge the worst, and so in time provide,</l>
+                     <l>That wee may after any storme abide</l>
+                     <l>Both you and I, who heere (God knowes) doe lye,</l>
+                     <l>Naked, and open to each Enemie.</l>
+                  </lg>
+                  <lg>
+                     <l>And shall I still be so without defence?</l>
+                     <l>A prey exposd to forraine violence?</l>
+                     <l>Doe I deserue no better? is faire <hi>Wight</hi>
+                     </l>
+                     <l>Of so small worth into her <hi>Charles</hi> his sight?</l>
+                     <l>Shee whom great <hi>Neptune</hi> loues and doth embrace,?</l>
+                     <l>And Heavens haue blessed with so sweet a face;</l>
+                     <l>
+                        <hi>Shee</hi> in whose losse all <hi>Albion</hi> should be lost.</l>
+                     <l>If forraine force were Conqueror of her coast:</l>
+                     <l>Why I am worthie of a <hi>Prince's</hi> loue</l>
+                     <l>And even my lookes may his good liking moue:</l>
+                     <l>Lesse worthie haue beene Queenes, nor am <hi>I</hi> proud,</l>
+                     <l>To thinke I may be of proud I <hi>ber</hi> woo'd,</l>
+                     <l>Or of the mignard <hi>French</hi> who would be glad,</l>
+                     <l>As he expectes to haue me to his bed,</l>
+                     <l>Say he should court me in rough compliment,</l>
+                     <l>And driue my weakenesse to a forc'd consent:</l>
+                     <l>Vpon what termes could I withstand his sute.</l>
+                     <l>Or with what strong refusall hold him out?</l>
+                     <l>I am a <hi>Woman,</hi> and as women bee</l>
+                     <l>Feeble, (when forc'd alone,) talies nor in me,</l>
+                     <l>Thus helpelesse, hopelesse, subiect to all harmes,</l>
+                     <l>T'oppose a sutter when he sues in armes,</l>
+                     <l>Had I assistance of assurd defence,</l>
+                     <l>And were securd from forreine insolence,</l>
+                     <l>With fortresses, in which I durst repose,</l>
+                     <l>Then <hi>I</hi> could laugh, and never feare to lose,</l>
+                     <l>Nor honour, nor that lewell of my life,</l>
+                     <l>My <hi>Chastitie</hi> to be a strangers Wife.</l>
+                  </lg>
+                  <lg>
+                     <l>Great <hi>Charles</hi> but once be pleas'd to cast an eye,</l>
+                     <l>Vpon poore <hi>Wight,</hi> who for thine aide doth cry,</l>
+                     <pb facs="tcp:9868:11"/>
+                     <l>Danger doth threaten, and it seemes, is neare,</l>
+                     <l>Preuent it, and forgiue a Womans feare.</l>
+                     <l>Take some good course that I may still be thine,</l>
+                     <l>In spite of all thine Enemies and mine.</l>
+                     <l>My Children from the wombe are bred for VVarre,</l>
+                     <l>And armd in my defence dare goe as farre</l>
+                     <l>As any Nation that the sunne doth see,</l>
+                     <l>But haue no strength to sheeld themselues nor me,</l>
+                     <l>If once a stranger land, my castles all.</l>
+                     <l>Should quicklie in their ruines see vs fall,</l>
+                     <l>And even that<note n="*" place="margin">Cares-brooke castle.</note> Fort which built vpon my brest,</l>
+                     <l>Is in the worlds vaine hope accounted best,</l>
+                     <l>If once my dwellers should be driuen there,</l>
+                     <l>Is but of small defence, t'would proue a snare:</l>
+                     <l>Within short space, and ere thine ayde could come,</l>
+                     <l>I should be spoyld, burnd, wasted, and vndone,</l>
+                     <l>Lee me but haue one place which can receaue,</l>
+                     <l>If neede should be (a siege) myne owne to saue,</l>
+                     <l>You see how <hi>Retz</hi> who was as weake as I</l>
+                     <l>A while but since did all our force defie,</l>
+                     <l>Though thou were Lord of both the Sea and Land,</l>
+                     <l>Her victualls and all succours to withstand,</l>
+                     <l>I am not so; a weaker hold to me</l>
+                     <l>Were of more hope, and haue the Ocean free,</l>
+                     <l>VVhich neither <hi>France</hi> nor <hi>Spayne</hi> for all their boastes,</l>
+                     <l>Can ever barre from hee to braue thy Coastes.</l>
+                  </lg>
+                  <lg>
+                     <l>Then while Time serues the hazard to preuent,</l>
+                     <l>Prouide, ere Time be sloathfullie mis-spent,</l>
+                     <l>All wish me well, but onelie thou canst make me</l>
+                     <l>Most happie if in thy defence thou take me,</l>
+                     <l>My sisters Children from the furthest North,</l>
+                     <l>Of <hi>Albany</hi> and from the bankes of <hi>Forth,</hi>
+                     </l>
+                     <l>Bound for thy seruice in these Warres of <hi>France,</hi>
+                     </l>
+                     <l>Are falne into my handes by happie chance,</l>
+                     <l>And now doe liue with me in such delight,</l>
+                     <l>That they are all enamoured of thy <hi>Wight,</hi>
+                     </l>
+                     <pb facs="tcp:9868:12"/>
+                     <l>Yea they doe sigh to see mee in this cace,</l>
+                     <l>Exposd to evry strangers rude embrace;</l>
+                     <l>And ere they saw me forcd would venter all,</l>
+                     <l>Their liues, and blood in my defence to fall.</l>
+                  </lg>
+                  <lg>
+                     <l>Once more excuse this importunitie</l>
+                     <l>Great <hi>Charles,</hi> and though my sexes modestie</l>
+                     <l>Forbid to wooe thee so, yet think how deare</l>
+                     <l>Mine honour, and my Childrens liues appeare</l>
+                     <l>To mine owne eyes, and evry loving Mother,</l>
+                     <l>And then I hope thy gracious thoughtes will smother</l>
+                     <l>The fashion of my sute, and let me haue</l>
+                     <l>Thy Royall ayde, and what my need doth craue.</l>
+                  </lg>
+                  <lg>
+                     <l>So may as many <hi>laurells</hi> bind thy browes,</l>
+                     <l>In glorious conquests, and great overthrowes,</l>
+                     <l>Of Enemies, by thee in <hi>Triumph</hi> led,</l>
+                     <l>As there be lampes in Heaven when light is fled;</l>
+                     <l>And may Heavens blessing shield thy Crowne and State,</l>
+                     <l>To make thee once <hi>Great Britaines Charles</hi> the <hi>Great.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>This when the Nymph had sayd, fhee turnd about,</l>
+                     <l>And div'd beneath the deep where shee came out,</l>
+                     <l>The trembling marble where shee hid her head,</l>
+                     <l>A hundred rounds about the place did spread.</l>
+                     <l>Heaven streight-way smil'd, and <hi>Phoebus</hi> shining bright,</l>
+                     <l>His golden beames beate on the Ile of <hi>Wight.</hi>
+                     </l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+                  <epigraph>
+                     <q>
+                        <hi>Sunt Artibus Arma Decori.</hi>
+                     </q>
+                  </epigraph>
+                  <byline>LAWDER</byline>
+               </div>
+               <div type="epitaph">
+                  <pb facs="tcp:9868:12"/>
+                  <head>TO THE MEMORY OF THE GENERALLIE <hi>BEVAILLED,</hi> S<seg rend="sup">r</seg>. IHON BVRROWES. COLONELL GENERALL AT THE <hi>ISLE OF</hi> RETZ, <hi>WHERE</hi> HEE WAS SLAYNE.</head>
+                  <l>
+                     <seg rend="decorInit">S</seg>TAY Passenger, and read vpon this stone</l>
+                  <l>A Tragick Story, in the losse of one</l>
+                  <l>By Fates vntimelie stroake entombed heere,</l>
+                  <l>Who <hi>Mars</hi> his mignon was, the <hi>Muses</hi> deare,</l>
+                  <l>A <hi>Souldier</hi> and a <hi>Schollar,</hi> one by birth</l>
+                  <l>As truelie Noble, as for Vertuous <hi>Worth.</hi>
+                  </l>
+                  <l>The <hi>Buckler</hi> and the <hi>Booke</hi> were his delightes,</l>
+                  <l>To lead the armed <hi>Arts</hi> to fields and fights?</l>
+                  <l>No lady but <hi>Minerva</hi> he did loue,</l>
+                  <l>Anothers lookes could not his likeing moue,</l>
+                  <l>His Valor <hi>Holland</hi> witness'd, <hi>Spaine</hi> adoares,</l>
+                  <l>
+                     <hi>Fraunce</hi> feard, admird, and <hi>England</hi> now deploares.</l>
+                  <l>To tell thee who it is let this suffice,</l>
+                  <l>Heere <hi>Noble, Valiant, Learnd, Braue BVRROWES,</hi> lies.</l>
+                  <epigraph>
+                     <q>
+                        <hi>SVNT ARTIBVS ARMA DECORI.</hi>
+                     </q>
+                  </epigraph>
+                  <byline>LAWDER.</byline>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
